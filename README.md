@@ -1,5 +1,5 @@
 # Palace of skills for a better world
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 Project for a AI technique based system able to develop training models based on the data elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training
