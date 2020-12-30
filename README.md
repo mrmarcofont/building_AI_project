@@ -14,41 +14,59 @@ Imagine to be a young adolescent. You are growing up fast to your maturity. You 
 
 Obviously  you have dreams you'd like them to come true. You are young with a long path just in front of you but... Outside the world is not so beautiful like we'd like it to be. Climate changes, crisis, unemployment, pollution will affect you future choices. At the same time industry will use your datas and preferences to create new expensive products or trying to influence your choices. Nothing so bad but why don't use this to improve ourselves? 
 
+We know that social media, web sites, on line store and others have great collections of data at their disposal to trace our likes.
+What we'd need is something like a wiki of ourselves where we could collect our data, information and fact. 
+
 Our data represent our history, our tastes related to emotions, actions and relationships. We could learn a lot if we could be helped in analysing the connections between data and our lacks. Imagine what it could represent for people in poorest places in the world. 
 There could be adolescents with a background of nothing that could be helped to learn something important for that specific place or for that historical moment and then for a possible future there or elsewhere.   
 
-The leitmotive of the project find his pillars into the ethical AI based on the principles of fairness, accountability, and transparency: 
+The leitmotive of the project find his pillars into the concept of a Human-centered AI oriented to 
 
-Fairness: the AI product does not actively or passively discriminate against groups of people in a harmful way.
-Accountability: everyone involved in the development and use of the AI product understands, accepts and is able to exercise their rights and responsibilities.
-Transparency: the intended users of an AI product can meaningfully understand the purpose of the product, how it works, and (where applicable) how specific decisions were made.
+1) satisfy the needs of less advantaged people; 
+2) allow them to use free and really usefull resource;
+3) create a value for society; 
+4) contribute to a better world.
 
+This must be seen in the context of a background scenario of ethical AI based on the principles of fairness (no discrimination), accountability (everyone have to follow clear rules and have rights and responsibilities), and transparency (people must understand the meaning, the aims and how it works). 
 
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+My personal motivation in proposing this is that I believe it is essential to leave a mark even if not tangible and represented only by an idea of what could be developed starting from new skills and knowledge. 
+ 
 
 ## How is it used?
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+
+Such a project is primarily aimed at teenagers, but anyone can be a user if they are motivated to improve themselves. 
+
+The project aims to create a tool that gives the possibility to collect data in social media (input #1) according to a logic of reverse tracking to have them available within a wiki that is enriched by their personal contributions (input #2) as if it were a real memory palace. On these bases using machine learning and neural networks we might be able to obtain freeand usefull outputs concerned the project aim. 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-## Challenges
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-## What next?
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-## References and Acknowledgments
 
+DATA SOURCES  
+1) social networks
+2) web sites' data
+3) search engines' data
+4) wikipedia contributions 
+5) "palace of memories" aka own personal wiki 
+6) government data 
+7) free resources for tuition
+8) ong resources for less advantage people 
+9) universities and schools' data 
+10) other tbd
+
+AI 
+1) Machine learning 
+2) Neural networks
+3) AI-Driven Applications
+4) something new tbd
+
+## Challenges
+
+There may be resistance from business operators to making free resources available to a large number of users. At the same time, there may be a lack of confidence in the quality of the resources made available, but this would increase with time and use. 
+
+## What next?
+
+It could be interesting to make of this project an example for a demo to be structured in a university environment with the appropriate AI skills. 
+
+## References and Acknowledgments
 
 https://meta.wikimedia.org/wiki/Research:Ethical_and_human-centered_AI
