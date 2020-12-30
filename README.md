@@ -62,4 +62,4 @@ There may be resistance from business operators to making free resources availab
 It could be interesting to make of this project an example for a demo to be structured in a university environment with the appropriate AI skills. 
 
 ## References and Acknowledgments
-Jonathan Morgan - Wikimedia Foundation - Research: Ethical and human-centered AI
+Jonathan Morgan (Wikimedia Foundation) **Research: Ethical and human-centered AI**
