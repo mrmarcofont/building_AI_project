@@ -70,4 +70,4 @@ It could be interesting to make of this project an example for a demo to be stru
 
 ## References and Acknowledgments
 
-Jonathan Morgan - Wikimedia Foundation - Research:Ethical and human-centered AI
+Jonathan Morgan - Wikimedia Foundation - Research: Ethical and human-centered AI
