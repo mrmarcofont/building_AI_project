@@ -3,11 +3,6 @@
 Final project for the Building AI course
 
 ## Summary
-
-The Palace of memories is a technique that allow you to store everything you need to remember in future in an easy way. Just imagine a palace into your mind and put it in some place, in a specific room full of design forniture, into that specific persian mother pearl box on the table in front at the big windows wit a dark blu curtain.  You don't have to remember everything it's enough to remember something connected to the beautiful box. 
- What about if you would be able to  remember the content of that box and could have the possibility to improve it or learn something more. Whether the mistery object were a newspaper article concerning AI what would you say if, at the same time, you were informed about the existence of an on line course call Elements of AI? What would you say  if you were informed also about the University of Helsinki or possibility to improve your english ? 
- In this case your palace full of memories could become the palace of skills allowing you to catch the opportunity to improve your skills, capacities, knowledge, self confidence, chances for your future. 
- The Palace of skills  could be a system that, relying on AI techniques, could be able to develop training models based on the elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training. Obviously, this is not intended to make us buy something, but to put us in a position to discover free resources, perhaps online, that would allow us to empower ourselves, improve our lives and let us to design the path of our future within the society that has formed us. 
  
 Project for a AI technique based system able to develop training models based on the data elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training
 
@@ -38,7 +33,6 @@ This must be seen in the context of a background scenario of ethical AI based on
 
 My personal motivation in proposing this is that I believe it is essential to leave a mark even if not tangible and represented only by an idea of what could be developed starting from new skills and knowledge. 
  
-
 ## How is it used?
 
 Such a project is primarily aimed at teenagers, but anyone can be a user if they are motivated to improve themselves. 
@@ -76,4 +70,4 @@ It could be interesting to make of this project an example for a demo to be stru
 
 ## References and Acknowledgments
 
-https://meta.wikimedia.org/wiki/Research:Ethical_and_human-centered_AI
+Jonathan Morgan - Wikimedia Foundation - Research:Ethical and human-centered AI
