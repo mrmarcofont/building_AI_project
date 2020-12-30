@@ -1,4 +1,5 @@
 # Palace of skills for a better world
+
 Final project for the Building AI course
 
 ## Summary
@@ -21,7 +22,6 @@ Our data represent our history, our tastes related to emotions, actions and rela
 There could be adolescents with a background of nothing that could be helped to learn something important for that specific place or for that historical moment and then for a possible future there or elsewhere.   
 
 The leitmotive of the project find his pillars into the concept of a Human-centered AI oriented to 
-
 1) satisfy the needs of less advantaged people; 
 2) allow them to use free and really usefull resource;
 3) create a value for society; 
