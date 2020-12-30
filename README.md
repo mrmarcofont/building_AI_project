@@ -48,7 +48,7 @@ DATA SOURCES
 2) web sites' data
 3) search engines' data
 4) wikipedia contributions 
-5) "palace of memories" aka own personal wiki 
+5) palace of memories aka own personal wiki 
 6) government data 
 7) free resources for tuition
 8) ong resources for less advantage people 
