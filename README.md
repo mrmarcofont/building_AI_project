@@ -38,7 +38,7 @@ My personal motivation in proposing this is that I believe it is essential to le
 
 Such a project is primarily aimed at teenagers, but anyone can be a user if they are motivated to improve themselves. 
 
-The project aims to create a tool that gives the possibility to collect data in social media (input #1) according to a logic of reverse tracking to have them available within a wiki that is enriched by their personal contributions (input #2) as if it were a real memory palace. On these bases using machine learning and neural networks we might be able to obtain freeand usefull outputs concerned the project aim. 
+The project aims to create a tool that gives the possibility to collect data in social media (input) according to a logic of reverse tracking to have them available within a wiki that is enriched by their personal contributions (input) as if it were a real memory palace. On these bases using machine learning and neural networks we might be able to obtain freeand usefull outputs concerned the project aim. 
 
 
 ## Data sources and AI methods
