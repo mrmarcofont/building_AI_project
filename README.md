@@ -1,9 +1,7 @@
 # Palace of skills for a better world
-
 Final project for the Building AI course
 
 ## Summary
- 
 Project for a AI technique based system able to develop training models based on the data elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training
 
 ## Background
@@ -13,7 +11,7 @@ What about if you would be able to  remember the content of that box and could h
 
 This is not intended to make us buy something, but to put us in a position to discover free resources, perhaps online, that would allow us to empower ourselves, improve our lives and let us to design the path of our future within the society that has formed us.
 
-Imagine to be a young adolescent. You are growing up fast to your maturity. You are learning a lot of subjects at school. Your family and friends and society are teaching you a lot of things. Mass media and internet are bombing you with a lot of inputs. You're able to think quite well and you are starting to plan what to do in future. What will you be ? Que serà, serà! 
+Imagine to be a young adolescent. You are growing up fast to your maturity. You are learning a lot of subjects at school. Your family and friends and society are teaching you a lot of things. Mass media and internet are bombing you with a lot of inputs. You're able to think quite well and you are starting to plan what to do in future. What will you be? Que serà, serà! 
 
 Obviously  you have dreams you'd like them to come true. You are young with a long path just in front of you but... Outside the world is not so beautiful like we'd like it to be. Climate changes, crisis, unemployment, pollution will affect you future choices. At the same time industry will use your datas and preferences to create new expensive products or trying to influence your choices. Nothing so bad but why don't use this to improve ourselves?
 
@@ -23,11 +21,7 @@ What we'd need is something like a wiki of ourselves where we could collect our 
 Our data represent our history, our tastes related to emotions, actions and relationships. We could learn a lot if we could be helped in analysing the connections between data and our lacks. Imagine what it could represent for people in poorest places in the world. 
 There could be adolescents with a background of nothing that could be helped to learn something important for that specific place or for that historical moment and then for a possible future there or elsewhere.   
 
-The leitmotive of the project find his pillars into the concept of a Human-centered AI oriented to 
-1) satisfy the needs of less advantaged people; 
-2) allow them to use free and really usefull resource;
-3) create a value for society; 
-4) contribute to a better world.
+The leitmotive of the project find his pillars into the concept of a Human-centered AI oriented to satisfy the needs of less advantaged people, to allow them to use free and really usefull resources, to create a value for society and to contribute to a better world.
 
 This must be seen in the context of a background scenario of ethical AI based on the principles of fairness (no discrimination), accountability (everyone have to follow clear rules and have rights and responsibilities), and transparency (people must understand the meaning, the aims and how it works). 
 
@@ -37,8 +31,7 @@ My personal motivation in proposing this is that I believe it is essential to le
 
 Such a project is primarily aimed at teenagers, but anyone can be a user if they are motivated to improve themselves. 
 
-The project aims to create a tool that gives the possibility to collect data in social media (input) according to a logic of reverse tracking to have them available within a wiki that is enriched by their personal contributions (input) as if it were a real memory palace. On these bases using machine learning and neural networks we might be able to obtain freeand usefull outputs concerned the project aim. 
-
+The project aims to create a tool that gives the possibility to collect data in social media (input) according to a logic of reverse tracking to have them available within a wiki that is enriched by their personal contributions (input) as if it were a real memory palace. On these bases using machine learning and neural networks we might be able to obtain free and usefull outputs concerned the project aim. 
 
 ## Data sources and AI methods
 
@@ -61,13 +54,10 @@ AI
 4) something new 
 
 ## Challenges
-
 There may be resistance from business operators to making free resources available to a large number of users. At the same time, there may be a lack of confidence in the quality of the resources made available, but this would increase with time and use. 
 
 ## What next?
-
 It could be interesting to make of this project an example for a demo to be structured in a university environment with the appropriate AI skills. 
 
 ## References and Acknowledgments
-
 Jonathan Morgan - Wikimedia Foundation - Research: Ethical and human-centered AI
