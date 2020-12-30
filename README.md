@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Project for a AI technique based resource able to develop training models based on the data elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training
+Project for a AI technique based system able to develop training models based on the data elements present in our choices to remember or store information related to emotions or vice versa not present and therefore representing gaps in our training
 
 ## Background
 
