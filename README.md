@@ -44,21 +44,21 @@ The project aims to create a tool that gives the possibility to collect data in 
 
 DATA SOURCES  
 1) social networks
-2) web sites' data
-3) search engines' data
+2) web sites data
+3) search engines data
 4) wikipedia contributions 
 5) palace of memories aka own personal wiki 
 6) government data 
 7) free resources for tuition
 8) ong resources for less advantage people 
-9) universities and schools' data 
-10) other tbd
+9) universities and schools data 
+10) other
 
 AI 
 1) Machine learning 
 2) Neural networks
 3) AI-Driven Applications
-4) something new tbd
+4) something new 
 
 ## Challenges
 
